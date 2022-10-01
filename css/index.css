@@ -1,4 +1,16 @@
 .kolom {
-    height: 150px;
-    
+    height: 200px;
+}
+
+#tempat1{
+    cursor: pointer;
+}
+
+
+
+
+@media screen and (max-width : 567px) {
+    .kolom {
+        height: 150px;
+    }
 }
